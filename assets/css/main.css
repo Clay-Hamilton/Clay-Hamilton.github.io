@@ -906,6 +906,10 @@
 		}
 
 			#main .avatar img {
+				img.resize {
+    width:122px; /* you can use % */
+    height: auto;
+}
 				display: block;
 				margin: 0 auto;
 				border-radius: 100%;
